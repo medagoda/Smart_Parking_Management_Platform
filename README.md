@@ -14,6 +14,9 @@ The Parking Management System is a C# Windows Forms application designed to stre
 
 - **User Authentication**: Secure login functionality that ensures only authorized users can access and modify the system’s data.
 
+## Screen Shot
+![alt text](ParkingSystem.png)
+
 ## Technologies Used
 
 ### Frontend
