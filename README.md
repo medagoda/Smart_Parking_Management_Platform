@@ -45,4 +45,4 @@ If you wish to contribute to this project, please fork the repository and submit
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Contact
-For any questions or inquiries, please contact lakithrandula6@gmail.com
+For any questions or inquiries, please contact nimesha2020kalutara@gmail.com
